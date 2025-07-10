@@ -1,0 +1,19 @@
+# Ignore node_modules, not entire frontend
+node_modules/
+npm-debug.log
+.env.local
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.env
+venv/
+DjangReact/
+
+# OS files
+.DS_Store
+Thumbs.db
